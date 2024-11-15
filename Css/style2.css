@@ -7,3 +7,18 @@ h1{
     display: flex;
     justify-content: center;
 }
+
+.Comprar{
+    display: flex;
+    justify-content: center;
+}
+.Importancia{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
