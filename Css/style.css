@@ -1,0 +1,19 @@
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+.Nombre-Producto{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
+
+.imagen{
+    max-width: 100%; 
+    height: auto; 
+}
